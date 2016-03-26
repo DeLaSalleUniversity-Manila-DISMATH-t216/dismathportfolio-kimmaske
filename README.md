@@ -118,30 +118,29 @@ dismathportfolio-kimmaske created by Classroom for GitHub
 could also lead to incorrect conclusion.
 
 #Week 6
--<b> Method of Proofs </b>
-- A <b> Proof </b> is a valid argument that establishes the truth of a mathematical statement while a <b> Theorem </b> is a statement 
-that can be proven true.
+<b> Method of Proofs </b>
+<li> A <b> Proof </b> is a valid argument that establishes the truth of a mathematical statement while a <b> Theorem </b> is a statement that can be proven true.</li>
 
   <b>A.) Direct Proof</b>
-        - First step is to assume that P is <b> True</b>
-        -Second Step is to show that Q must also be true .
+        <li> First step is to assume that P is <b> True</b></li>
+        <li>Second Step is to show that Q must also be true .</li>
         
   <b>B.) Proof by Contraposition </b>
-         - It was discussed that a Contrapositive is distinct to its Original Form but is logically Equivalent to it. 
-         -p→q=¬q→¬p
-         - Proof by Contraposition can be proven by showing that ¬q→¬p is True by taking ¬q as a premise therefore ¬p must follow. 
+         <li>It was discussed that a Contrapositive is distinct to its Original Form but is logically Equivalent to it. 
+         -p→q=¬q→¬p</li>
+         <li> Proof by Contraposition can be proven by showing that ¬q→¬p is True by taking ¬q as a premise therefore ¬p must follow. </li>
          
   <b>C.) Vacuuos Proof </b>
-         -Shows that p is false since, p→q mustbe true when p is false.
+         <li>Shows that p is false since, p→q mustbe true when p is false.</li>
          
   <b>D.) Trivial Proof </b>
-         - Shows that q is true, it follows that p→q must be also true.
+         <li>Shows that q is true, it follows that p→q must be also true.</li>
          
   <b>E.) Proof by Contradiction</b>
-        - In Proof by Contradiction, we have to assume that ¬p is True since asumming that ¬p is True leads to a contradiction.
+        <li>In Proof by Contradiction, we have to assume that ¬p is True since asumming that ¬p is True leads to a contradiction.</li>
         
-  <b>F.) Proof by Equivalence (Biconditional)
-        -To Prove a theorem that is a Biconditional Statement p ↔ q, we must prove that p→q and q→p are both true. 
+  <b>F.) Proof by Equivalence (Biconditional)</b>
+        <li>To Prove a theorem that is a Biconditional Statement p ↔ q, we must prove that p→q and q→p are both true. </li>
   
 <li>These are the basic methods for proving that were discussed. Overall, the only problem that I encountered while learning this was
 sometimes I get confused and I don't know what Method to use. I have learned that the best method in proving is to analyze the problem
