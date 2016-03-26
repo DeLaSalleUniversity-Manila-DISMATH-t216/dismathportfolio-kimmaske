@@ -7,6 +7,7 @@ dismathportfolio-kimmaske created by Classroom for GitHub
 the essence of this subject.
 - I discovered that this subject is purely based on Logic and on how we use our minds to understand the given problems given to us.
 - This is a challenging subject and I would do my best to pass this subject. 
+
 #Week 2
 -We had a formal introduction to <b>Propositional Logic </b>.
 -<b>Proposition</b> is a declarative statement that can either be <b>T(True)</b> or <b>F(False)</b> but not <b>BOTH!</b>.
