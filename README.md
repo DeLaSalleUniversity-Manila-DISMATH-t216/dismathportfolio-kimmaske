@@ -49,12 +49,11 @@ we really need to think and use our minds.
 
 
 #Week 4
-  <b> Conditional</b> statements were introduced to us and we were given examples to ponder upon.
-   The Conditional Statement p→q is the proposition "If p then q". It is conditional since it asserts that q is true on the condition that p holds.
-  Conditional statement is False when P is true and Q is false and true, otherwise.
-  I've also learned that in a Conditional Statement, <b>P</b> is called the <b>Antecedent,Hypothesis or Premise</b> while <b>Q</b> is called 
-the <b> Conclusion or Consequent </b>.
-  There are various expressions for a Conditional Statement such as; "if p then q", "p if q", "p is sufficient for q", "p implies q" and many more.
+<li>-<b> Conditional</b> statements were introduced to us and we were given examples to ponder upon.</li>
+<li>-The Conditional Statement p→q is the proposition "If p then q". It is conditional since it asserts that q is true on the condition that p holds.</li>
+<li>-Conditional statement is False when P is true and Q is false and true, otherwise.</li>
+<li>-I've also learned that in a Conditional Statement, <b>P</b> is called the <b>Antecedent,Hypothesis or Premise</b> while <b>Q</b> is called the <b> Conclusion or Consequent </b>.</li>
+<li>-There are various expressions for a Conditional Statement such as; "if p then q", "p if q", "p is sufficient for q", "p implies q" and many more.</li>
 
 -<b> Contrapositive, Converse, and Inverse </b> were also discussed.
 -<b> Contrapositive </b> is distinct from the original statement but it is logically equivalent to it.
