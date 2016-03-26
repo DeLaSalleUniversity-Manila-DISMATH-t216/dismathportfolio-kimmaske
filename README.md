@@ -3,13 +3,12 @@ dismathportfolio-kimmaske created by Classroom for GitHub
 
 #Dismath Portfolio
 #Week 1
--We started of with the introduction of <b>Dismath</b> and we had a game starting with the Knight and Knaves. It was a fun game which encompasses
-the essence of this subject.
-- I discovered that this subject is purely based on Logic and on how we use our minds to understand the given problems given to us.
-- This is a challenging subject and I would do my best to pass this subject. 
+<li>We started of with the introduction of <b>Dismath</b> and we had a game starting with the Knight and Knaves. It was a fun game which encompasses the essence of this subject.</li>
+<li>I discovered that this subject is purely based on Logic and on how we use our minds to understand the given problems given to us.</li>
+<li>This is a challenging subject and I would do my best to pass this subject. </li>
 
 #Week 2
--We had a formal introduction to <b>Propositional Logic </b>.
+<li>We had a formal introduction to <b>Propositional Logic </b>.</li>
   <b>Proposition</b> is a declarative statement that can either be <b>T(True)</b> or <b>F(False)</b> but not <b>BOTH!</b>.
   <b>Not Proposition</b> is an Imperative or Interrogative statement that is <b>neither</b> True or False.
   <b> Logical Connectives</b> and <b> Logical Operators </b> were also discussed. Shown in the Table below are the different Logical Connectives.
@@ -23,15 +22,13 @@ the essence of this subject.
 | → | Conditional | if, then | if val(p)  ≤ val(q) = 1 , otherwise  0  | p → q ≡  ¬p v q |
 | ↔ | Biconditional | iff | if val(p) equals val(q) = 1 , otherwise  0 |  p ↔ q ≡ (p → q) ∧ (q → p) |
 
-  The use of <b> Truth Tables</b> were also introduced to us. It is a method wherein all possible inputs and outputs are listed and established.
-  By using the formula 2^n wherein n=number of variables then we would know how many rows are needed for the truth table.
-  Truth tables can also help in understanding the different Gates such as the <b> And, Or, Nor, Exclusive Or, Exclusive Nor. </b>
+  <li>The use of <b> Truth Tables</b> were also introduced to us. It is a method wherein all possible inputs and outputs are listed and established.</li>
+  <li>By using the formula 2^n wherein n=number of variables then we would know how many rows are needed for the truth table.</li>
+  <li>Truth tables can also help in understanding the different Gates such as the <b> And, Or, Nor, Exclusive Or, Exclusive Nor. </b></li>
 #Week 3
--The different Identities and Laws were taught to us which is what they call <b>"Logical Equivalences"</b>. It's alsmost the same to the different identities that were taught to us in basic math (eg. Commutative, Identity..) 
--We can use Truth Tables in proving Equivalences but sometimes it would be harder since it is time consuming and its not that efficient
-for some items. Hence, the different identites would be helpful since it would prove the equivalence faster and more efficient. 
-- My favourite part of this lecture is the proving part since it really works up your mind and the procedure is not mechanical therefore
-we really need to think and use our minds.
+<li>The different Identities and Laws were taught to us which is what they call <b>"Logical Equivalences"</b>. It's alsmost the same to the different identities that were taught to us in basic math (eg. Commutative, Identity..) </li>
+<li>We can use Truth Tables in proving Equivalences but sometimes it would be harder since it is time consuming and its not that efficient for some items. Hence, the different identites would be helpful since it would prove the equivalence faster and more efficient. </li>
+<li>My favourite part of this lecture is the proving part since it really works up your mind and the procedure is not mechanical therefore we really need to think and use our minds.</li>
 
 |                        Logical   Equivalence                         |        Name         |
 |:--------------------------------------------------------------------:|:-------------------:|
@@ -49,34 +46,34 @@ we really need to think and use our minds.
 
 
 #Week 4
-<li>-<b> Conditional</b> statements were introduced to us and we were given examples to ponder upon.</li>
-<li>-The Conditional Statement p→q is the proposition "If p then q". It is conditional since it asserts that q is true on the condition that p holds.</li>
-<li>-Conditional statement is False when P is true and Q is false and true, otherwise.</li>
-<li>-I've also learned that in a Conditional Statement, <b>P</b> is called the <b>Antecedent,Hypothesis or Premise</b> while <b>Q</b> is called the <b> Conclusion or Consequent </b>.</li>
-<li>-There are various expressions for a Conditional Statement such as; "if p then q", "p if q", "p is sufficient for q", "p implies q" and many more.</li>
+<li><b> Conditional</b> statements were introduced to us and we were given examples to ponder upon.</li>
+<li>The Conditional Statement p→q is the proposition "If p then q". It is conditional since it asserts that q is true on the condition that p holds.</li>
+<li>Conditional statement is False when P is true and Q is false and true, otherwise.</li>
+<li>I've also learned that in a Conditional Statement, <b>P</b> is called the <b>Antecedent,Hypothesis or Premise</b> while <b>Q</b> is called the <b> Conclusion or Consequent </b>.</li>
+<li>There are various expressions for a Conditional Statement such as; "if p then q", "p if q", "p is sufficient for q", "p implies q" and many more.</li>
 
--<b> Contrapositive, Converse, and Inverse </b> were also discussed.
--<b> Contrapositive </b> is distinct from the original statement but it is logically equivalent to it.
--<b> Converse </b> is distinct from the original statement but it is logically independent to it.
--<b> Inverse</b> is logically distinct but it is not equivalent to the original statement. 
+<li><b> Contrapositive, Converse, and Inverse </b> were also discussed.</li>
+<li><b> Contrapositive </b> is distinct from the original statement but it is logically equivalent to it.</li>
+<li><b> Converse </b> is distinct from the original statement but it is logically independent to it.</li>
+<li><b> Inverse</b> is logically distinct but it is not equivalent to the original statement. </li>
 
--<b> Compound Propositions </b> were also discussed which are Propositions combined using Logical Operators and Connectives. 
-"You can access the internet from Campus only if you know the password".
-<b>p</b>= "You can access the internet from campus"
-<b>q</b>="You know the Password"
-<b>p→q=¬q→¬p</b>
-- This example showed us that every English sentence could be translated into a logical expression.
+<li><b> Compound Propositions </b> were also discussed which are Propositions combined using Logical Operators and Connectives.</li> 
+<li>"You can access the internet from Campus only if you know the password".</li>
+<li><b>p</b>= "You can access the internet from campus"</li>
+<li><b>q</b>="You know the Password"</li>
+<li><b>p→q=¬q→¬p</b></li>
+<li>This example showed us that every English sentence could be translated into a logical expression.</li>
 
 #Week 5
--<b>Tautology</b> and <b> Contradictions </b> were also discussed.
--<b> Tautologies</b> are Compound Propositions that are always True no matter what the truth values of the propositions are. 
+<li><b>Tautology</b> and <b> Contradictions </b> were also discussed.</li>
+<li><b> Tautologies</b> are Compound Propositions that are always True no matter what the truth values of the propositions are.</li> 
      (pv¬p=T)
--<b>Contradictions</b> are the opposite of Tautologies since it is always False no matter what the truth values of the propositions are.
+<li><b>Contradictions</b> are the opposite of Tautologies since it is always False no matter what the truth values of the propositions are.</li>
      (p∧¬p=F)
-- From Tautology and Contradictions, I have learned that having these in Programs or "Source Codes" means that the program is poorly written.
--<b>Predicate Logic</b> is also discussed and it deals with predicates and quantifiers. One example of a Predicate Logic:
+<li>From Tautology and Contradictions, I have learned that having these in Programs or "Source Codes" means that the program is poorly written.</li>
+<li><b>Predicate Logic</b> is also discussed and it deals with predicates and quantifiers. One example of a Predicate Logic:</li>
     "X is greater than 12", X is the subject while "is greater than 12" is the predicate.
-- There are two types of Quantifiers which is the <b>Universal Quantifier</b> and the <b> Existensial Quantifier</b>.
+<li>There are two types of Quantifiers which is the <b>Universal Quantifier</b> and the <b> Existensial Quantifier</b>.</li>
    a.) <b> Universal Quantifier (∀x) </b> indicates "for all". This are true unless there is a counter example.
    b.) <b> Existential Quantifier ( ∃x )</b> means "there exists". False unless theres a positive example.
    - The table below shows when a Quantifier is either True or False.
@@ -91,11 +88,11 @@ we really need to think and use our minds.
    |    ∀xP(x)     |There is an x for which P(x) is False. |
    |    ∃xP(x)     |P(x) is false for every x.             |
    
-   -<b> Rules of Inference </b> were also discussed.
-   -<b> Arguments</b> are sequence of statements that end with a conclusion.
-   -<b>Validity</b> means conclusion of the final statement of the argument must follow the truth of the preceeding statement.
-   -<b>Fallacies</b> means incorrect reasoning.
-   -Rules of Inference could be better understood by using this table :
+   <li><b> Rules of Inference </b> were also discussed.</li>
+   <li><b> Arguments</b> are sequence of statements that end with a conclusion.</li>
+   <li><b>Validity</b> means conclusion of the final statement of the argument must follow the truth of the preceeding statement.</li>
+   <li><b>Fallacies</b> means incorrect reasoning.</li>
+   <li>Rules of Inference could be better understood by using this table :</li>
    
    |   Rule of Inference        |            Tautology           |          Name           |
    |:--------------------------:|:------------------------------:|:-----------------------:|
@@ -146,9 +143,9 @@ that can be proven true.
   <b>F.) Proof by Equivalence (Biconditional)
         -To Prove a theorem that is a Biconditional Statement p ↔ q, we must prove that p→q and q→p are both true. 
   
-  -These are the basic methods for proving that were discussed. Overall, the only problem that I encountered while learning this was
-  sometimes I get confused and I don't know what Method to use. I have learned that the best method in proving is to analyze the problem
-  first. After that then we could try using the basic ones such as Direct Proof and if it wont work then we'd move on to the next method.
+<li>These are the basic methods for proving that were discussed. Overall, the only problem that I encountered while learning this was
+sometimes I get confused and I don't know what Method to use. I have learned that the best method in proving is to analyze the problem
+first. After that then we could try using the basic ones such as Direct Proof and if it wont work then we'd move on to the next method.</li>
         
   
   
