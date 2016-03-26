@@ -74,8 +74,8 @@ dismathportfolio-kimmaske created by Classroom for GitHub
 <li><b>Predicate Logic</b> is also discussed and it deals with predicates and quantifiers. One example of a Predicate Logic:</li>
     "X is greater than 12", X is the subject while "is greater than 12" is the predicate.
 <li>There are two types of Quantifiers which is the <b>Universal Quantifier</b> and the <b> Existensial Quantifier</b>.</li>
-   a.) <b> Universal Quantifier (∀x) </b> indicates "for all". This are true unless there is a counter example.
-   b.) <b> Existential Quantifier ( ∃x )</b> means "there exists". False unless theres a positive example.
+ <li>  a.) <b> Universal Quantifier (∀x) </b> indicates "for all". This are true unless there is a counter example.</li>
+  <li> b.) <b> Existential Quantifier ( ∃x )</b> means "there exists". False unless theres a positive example.</li>
    - The table below shows when a Quantifier is either True or False.
    
    |   Statement   |    When True                         |     
@@ -148,7 +148,8 @@ sometimes I get confused and I don't know what Method to use. I have learned tha
 first. After that then we could try using the basic ones such as Direct Proof and if it wont work then we'd move on to the next method.</li>
         
   
-  
+#Week 7
+
   
   
   
