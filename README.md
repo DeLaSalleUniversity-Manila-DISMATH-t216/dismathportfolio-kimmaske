@@ -10,9 +10,9 @@ the essence of this subject.
 
 #Week 2
 -We had a formal introduction to <b>Propositional Logic </b>.
--<b>Proposition</b> is a declarative statement that can either be <b>T(True)</b> or <b>F(False)</b> but not <b>BOTH!</b>.
--<b>Not Proposition</b> is an Imperative or Interrogative statement that is <b>neither</b> True or False.
--<b> Logical Connectives</b> and <b> Logical Operators </b> were also discussed. Shown in the Table below are the different Logical Connectives.
+  <b>Proposition</b> is a declarative statement that can either be <b>T(True)</b> or <b>F(False)</b> but not <b>BOTH!</b>.
+  <b>Not Proposition</b> is an Imperative or Interrogative statement that is <b>neither</b> True or False.
+  <b> Logical Connectives</b> and <b> Logical Operators </b> were also discussed. Shown in the Table below are the different Logical Connectives.
  
 | Logical Symbol  |  Logical Operator | Shorthand | Formula | Logical Expression |
 | :-----: |:-------:|:-----:| :-------: | :-------: |
@@ -23,12 +23,11 @@ the essence of this subject.
 | → | Conditional | if, then | if val(p)  ≤ val(q) = 1 , otherwise  0  | p → q ≡  ¬p v q |
 | ↔ | Biconditional | iff | if val(p) equals val(q) = 1 , otherwise  0 |  p ↔ q ≡ (p → q) ∧ (q → p) |
 
--The use of <b> Truth Tables</b> were also introduced to us. It is a method wherein all possible inputs and outputs are listed and established.
--By using the formula 2^n wherein n=number of variables then we would know how many rows are needed for the truth table.
--Truth tables can also help in understanding the different Gates such as the <b> And, Or, Nor, Exclusive Or, Exclusive Nor. </b>
+  The use of <b> Truth Tables</b> were also introduced to us. It is a method wherein all possible inputs and outputs are listed and established.
+  By using the formula 2^n wherein n=number of variables then we would know how many rows are needed for the truth table.
+  Truth tables can also help in understanding the different Gates such as the <b> And, Or, Nor, Exclusive Or, Exclusive Nor. </b>
 #Week 3
--The different Identities and Laws were taught to us which is what they call <b>"Logical Equivalences"</b>. It's alsmost the same to the different
-identities that were taught to us in basic math (eg. Commutative, Identity..) 
+-The different Identities and Laws were taught to us which is what they call <b>"Logical Equivalences"</b>. It's alsmost the same to the different identities that were taught to us in basic math (eg. Commutative, Identity..) 
 -We can use Truth Tables in proving Equivalences but sometimes it would be harder since it is time consuming and its not that efficient
 for some items. Hence, the different identites would be helpful since it would prove the equivalence faster and more efficient. 
 - My favourite part of this lecture is the proving part since it really works up your mind and the procedure is not mechanical therefore
@@ -50,12 +49,12 @@ we really need to think and use our minds.
 
 
 #Week 4
--<b> Conditional</b> statements were introduced to us and we were given examples to ponder upon.
-- The Conditional Statement p→q is the proposition "If p then q". It is conditional since it asserts that q is true on the condition that p holds.
--Conditional statement is False when P is true and Q is false and true, otherwise.
--I've also learned that in a Conditional Statement, <b>P</b> is called the <b>Antecedent,Hypothesis or Premise</b> while <b>Q</b> is called 
+  <b> Conditional</b> statements were introduced to us and we were given examples to ponder upon.
+   The Conditional Statement p→q is the proposition "If p then q". It is conditional since it asserts that q is true on the condition that p holds.
+  Conditional statement is False when P is true and Q is false and true, otherwise.
+  I've also learned that in a Conditional Statement, <b>P</b> is called the <b>Antecedent,Hypothesis or Premise</b> while <b>Q</b> is called 
 the <b> Conclusion or Consequent </b>.
--There are various expressions for a Conditional Statement such as; "if p then q", "p if q", "p is sufficient for q", "p implies q" and many more.
+  There are various expressions for a Conditional Statement such as; "if p then q", "p if q", "p is sufficient for q", "p implies q" and many more.
 
 -<b> Contrapositive, Converse, and Inverse </b> were also discussed.
 -<b> Contrapositive </b> is distinct from the original statement but it is logically equivalent to it.
