@@ -188,7 +188,15 @@ first. After that then we could try using the basic ones such as Direct Proof an
 <li> This identities are  similar to the Logical Equivalences discussed </li>
 #Week 9
 <li> <b> Functions </b></li>
-  
+<li> Functions are also called <b>mapping</b> or <b>transformations</b>. It is assigning an Element in Set A to an Element to Set B.</li>  
+<li>If f is a function from set A to B. A is the <b> Domain</b> of f while B is the <b>Co-Domain </b> of f. </li>
+<li><b>Types of Functions</b></li>
+     <li><b> One to One Function(Injective)</b> is a function that assigns elements only once and could never be repeated </li>
+     <li><b> Onto Function(Surjective)</b> is a function that contains equal range and domain</li>
+     <li><b> One to One Correspondence( Bijective)</b> are functions that are both one to one and onto</li>
+
+<li><b> Floor Functions </b> assigns the largest integer to real number x </li>
+<li><b> Ceiling Functions</b> assings the smallest integer to real number x </li>
   
   
   
