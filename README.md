@@ -151,7 +151,7 @@ first. After that then we could try using the basic ones such as Direct Proof an
 
 
 #Week 8
-<b> Introduction to Sets and Functions </bi>
+<b> Introduction to Sets and Functions </b>
 <li>I have learned that sets are groups of objects that have the same elements or properties </li>
 <li>For example, Set of positive integers less than 10 would be {1,2,3,4,5,6,7,8,9}</li>
 <li> <b> Elements </b> are the members or objects in a set. </li>
