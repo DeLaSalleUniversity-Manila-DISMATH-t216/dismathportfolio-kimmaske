@@ -170,6 +170,8 @@ first. After that then we could try using the basic ones such as Direct Proof an
 <li><b>Subset</b> are sets that contains the same elements with another set. </li>
 
 <li> Sets also has Identities which could be seen in the table below </li>
+
+
 |                               Identity                               |        Name         |
 |:--------------------------------------------------------------------:|:-------------------:|
 |                      A U 0= A <br> A ∩ U= A                          |    Identity laws    |
@@ -183,7 +185,7 @@ first. After that then we could try using the basic ones such as Direct Proof an
 |                 A U (A ∩ B)=A <br>A ∩ (A U B)= A                     |   Absorption laws   |
 |                     A U ¬A= U <br> A ∩ ¬A =0                         |    Negation laws    |
 
-
+<li> This identities are  similar to the Logical Equivalences discussed </li>
 #Week 9
 <li> <b> Functions </b></li>
   
