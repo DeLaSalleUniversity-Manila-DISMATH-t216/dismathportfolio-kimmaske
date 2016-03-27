@@ -149,7 +149,43 @@ first. After that then we could try using the basic ones such as Direct Proof an
   
 #Week 7
 
-  
+
+#Week 8
+<b> Introduction to Sets and Functions </bi>
+<li>I have learned that sets are groups of objects that have the same elements or properties </li>
+<li>For example, Set of positive integers less than 10 would be {1,2,3,4,5,6,7,8,9}</li>
+<li> <b> Elements </b> are the members or objects in a set. </li>
+<li> Important Dismath Sets were also discussed such as :</li>
+     <li><b>Natural Numbers</b>={0,1,2,3,4,5...}</li>
+     <li><b>Integers</b>={.....-3,-2,-1,0,1,2,3....}</li>
+     <li><b>Positive Integers</b>={1,2,3,.....}</li>
+     <li><b>Rational Numbers</b>={p/q|p∈Z,q∈z,q is not equal to 0}</li>
+<li> Sets are Equal if they contain same elements </li>
+
+<li> The use of <b> Ven Diagram </b> is also introduced and it is a graphical method to represent sets </li>
+<li> Using a Ven Diagram could also be helpful in getting probabilities of numbers </li>
+<li> By using Ven Diagram, we could determine the Union and Intersection of sets</li>
+
+<li><b>Empty Set</b> are sets that doesn't contain any elements and is denoted by {}.</li>
+<li><b>Subset</b> are sets that contains the same elements with another set. </li>
+
+<li> Sets also has Identities which could be seen in the table below </li>
+|                               Identity                               |        Name         |
+|:--------------------------------------------------------------------:|:-------------------:|
+|                      A U 0= A <br> A ∩ U= A                          |    Identity laws    |
+|                       A U U= U <br> A ∩ 0= 0                         |   Domination laws   |
+|                       A U A= A <br> A ∩ A= A                         |   Idempotent laws   |
+|                            ¬(¬A) ≡ A                                 | Complementation laws|
+|                  A U B= B U A <br> A ∩ B= B ∩ A                      |   Commutative laws  |
+|       A U (B U C)=(A U B) U C<br> A ∩ (B ∩ C)= (A ∩ B) ∩ C           |   Associative laws  |
+|  A ∩ (B U C)=(A U B) ∩ (A U C)<br> A U (B ∩ C)= (A ∩ B) U (A ∩ C)    |  Distributive laws  |
+|              ¬(A U B)=(¬A U ¬B)<br> ¬(A ∩ B)=(¬A ∩ ¬B)               |   De Morgan's laws  |
+|                 A U (A ∩ B)=A <br>A ∩ (A U B)= A                     |   Absorption laws   |
+|                     A U ¬A= U <br> A ∩ ¬A =0                         |    Negation laws    |
+
+
+#Week 9
+<li> <b> Functions </b></li>
   
   
   
