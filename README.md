@@ -231,6 +231,21 @@ the flow of the program better </b>
 
 
 
+|                             Complexity                               |        Terminology     |
+|:--------------------------------------------------------------------:|:----------------------:|
+|                      A U 0= A <br> A ∩ U= A                          |Constant Complexity     |
+|                       A U U= U <br> A ∩ 0= 0                         |Logarithmic Complexity  |
+|                       A U A= A <br> A ∩ A= A                         |Linear Complexity       |
+|                            ¬(¬A) ≡ A                                 |nlogn Complexity        |
+|                  A U B= B U A <br> A ∩ B= B ∩ A                      |Polynomial Complexity   |
+|       A U (B U C)=(A U B) U C<br> A ∩ (B ∩ C)= (A ∩ B) ∩ C           |Exponential Complexity  |
+|  A ∩ (B U C)=(A U B) ∩ (A U C)<br> A U (B ∩ C)= (A ∩ B) U (A ∩ C)    |Factorial Complexity    |
+
+<li> Shown above are the different types of complexities </li>
+
+#Week 12
+
+
 
 
 
