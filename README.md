@@ -208,18 +208,83 @@ the flow of the program better </b>
      <li>Locating an Element in an Ordered List</li>
      
   <li><b> Linear Search Algorithm</b> is when you set the number to 0 first. After that , you compare it to each and every number on the list and if the number is equal to the number being compared then that is the number. Everytime that it is not equal to the desired number then we add 1 to 0 and repeat the steps until we get the desired number </li>
-         <b> Pseudocode</b>
-         <li> Procedure :Linear Search<li>
-         <li>Input: x:integer, a0, a1...an-1 </li>
-        <li> i=0;</li>
-        <li>while (i<n and x is not equal to ai)</li>
-        <li>i=i+1</li>
-        <li>if i<n then location =i</li>
-        <li> elso location=0</li>
         
-        <li> Output: Number found </li>
-
+  <li><b> Binary Search Algorithm</b>Divide the set of numbers into two and get a middle term. Compare x to the middle term and see if it is greater or less than the middle term. If it is greater than the middle term then choose the upper half, else choose the lower half. Repeat the steps until the desired number is found. </li>
   
+  <li><b> Sorting Algorithms</b> is putting unsorted elements in an increasing order. </li>
+  
+  <li><b> Bubble Sort Algorithm</b> - In this type of algorithm, you compare adjacent elements . If they are in the wrong order then interchange them. Repeat this step until all of the elements in the set are sorted out. </li>
+  
+  <li><b>Insertion Sort Algorithm</b>- Compare the second element to the first element. If it is less than the first element then place it before the first element. If it is greather than then retain position. Repeat this steps until the elements in the set are sorted out. </li>
+  
+  <li> <b> Greedy Algorithm </b> selects the best choice or the most optimal solution in a problem rather than following consecutive steps in order to get the desired results as shown wherein Sir Cabatuan showed us the "Problem of making n cents change" problem. </li>
+  
+#Week 11
+<li><b>Growth of Functions</b></li>
+<li> It is often represented by <b>Big 0 notation </b>. It is considered as a Big O notation if there are constants c and k such that |f(x)|<= C|g(x)| whenever x>k. The constants c and k are called <b> witnesses</b> </li>.
+
+<li> Big 0 notation does not provide a lower bound for f(x) so that's where <b>Big Omega</b> comes in. 
+<li><b> Big Omega Notation</b> is used for the lower bound. </li>
+<li><b> Big Theta Notation </b> is used for both upper and lower bound. </li>
+
+<li><b> Algorithm Time Complexity </b> the number of comparisons used would serve as the number of the time complexity. </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
   
