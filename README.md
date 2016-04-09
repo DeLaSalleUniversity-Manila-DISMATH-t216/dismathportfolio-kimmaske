@@ -244,11 +244,37 @@ the flow of the program better </b>
 <li> Shown above are the different types of complexities </li>
 
 #Week 12
+<b> Graph Theory</b>
+<li><b>Graph</b> are structures that is composed of <b>Edges</b> and <b> Vertices(nodes)</b> </li>
+<li> It can be applied in a lot of things such as social networking sites like Facebook. </li>
 
+<li>The <b> degree </b> of a vertex in a graph are the number of edges that are incident with it.Having a loop is considered to have twice the degree of the vertex </li>
 
+<li>A vertex of zero degree is called <b> Isolated </b></li>
+<li>A <b>Pendant</b> consits of only one degree </li>
 
+<li> <b> Handshaking Theorem </b> states that in an undirected graph, the number of degrees multiplied by the number of vertices is equal to twice the edge. 2e=deg(v), using this formula lets us know the number of edges in a graph </li>
+<li>A <b> complete graph</b> denoted by Kn is a type of graph that has one edge between each pair of distinct vertices. Common examples are K33,K5. </li>
+<li> <b> Cycles</b> are types of graph wherein the vertices contains only 2 degrees. By putting a vertex in a middle and connecting it to the vertices then we could form a <b> Wheel</b></li>
 
+<li>An <b>Euler Path </b> is a path that travels along every edge exactly once while and <b> Euler Circuit</b> is an Euler Path that begins and ends in the same place </li>
+<li>An Euler Circuit has each of the vertices containing an even degree while and Euler Path has exactly two vertices which contains an Odd degree </li>
 
+<li><b> Hamiltonian Path</b> is a path that travels through every vertex in the graph exactly once while a <b> Hamiltonian Path</b>
+is a Hamiltonian Path which ends and begins in the same place </li>
+
+<li><b> Adjacency Matrix </b> can also be used in representing a graph. </li>
+<li> A graph is <b>Isomorphic</b> if two graphs have different "looks" but are still the same </li>
+
+<li> <b> Planar Graphs </b> are graphs that can be drawn in plane without the edges having to cross </li>
+<li> A graph is considered as <b> Homeomorphic Graph </b> it is an elementary subdivision of the original graph </li>
+<li>According to <b>Kuratowskis Theorem </b> if a graph is an elementary subdivision of a K33 or a K5 then it is not planar </li>
+
+#Week 13
+
+<b> Graph Coloring </b>
+<li> It is the assingment of color to each of the vertices of the graph so that no two adjacent vertices have the same color </li>
+<li> The <b> Chromatic </b> number of a graph is the minimum number of colors that would be used in coloring a graph </li>
 
 
 
