@@ -208,14 +208,14 @@ the flow of the program better </b>
      <li>Locating an Element in an Ordered List</li>
      
   <li><b> Linear Search Algorithm</b> is when you set the number to 0 first. After that , you compare it to each and every number on the list and if the number is equal to the number being compared then that is the number. Everytime that it is not equal to the desired number then we add 1 to 0 and repeat the steps until we get the desired number </li>
-         <b> Pseudocode</>
+         <b> Pseudocode</b>
          <li> Procedure :Linear Search<li>
          <li>Input: x:integer, a0, a1...an-1 </li>
-         i=0;
-         while (i<n and x is not equal to ai)
-            i=i+1
-        if i<n then location =i
-        elso location=0
+        <li> i=0;</li>
+        <li>while (i<n and x is not equal to ai)</li>
+        <li>i=i+1</li>
+        <li>if i<n then location =i</li>
+        <li> elso location=0</li>
         
         <li> Output: Number found </li>
 
