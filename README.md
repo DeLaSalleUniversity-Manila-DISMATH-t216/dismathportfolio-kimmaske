@@ -198,8 +198,29 @@ first. After that then we could try using the basic ones such as Direct Proof an
 <li><b> Floor Functions </b> assigns the largest integer to real number x </li>
 <li><b> Ceiling Functions</b> assings the smallest integer to real number x </li>
   
+<li><b> Algorithms</b> are sets of instructions for doing a specified task. A person who understands the logic of Algorithms is a good programmer </li>
+<li><b> Pseudocodes</b> are type of codes that are intended for human reading. Using Psudocodes before programming helps us understand
+the flow of the program better </b>
+<li> The different <b> properties</b> of Algorithms are Input, Output, Definitness, Correctness, Finiteness and Generality. </li>
+
+#Week 10
+<li><b> Searching Algorithms</b></li>
+     <li>Locating an Element in an Ordered List</li>
+     
+  <li><b> Linear Search Algorithm</b> is when you set the number to 0 first. After that , you compare it to each and every number on the list and if the number is equal to the number being compared then that is the number. Everytime that it is not equal to the desired number then we add 1 to 0 and repeat the steps until we get the desired number </li>
+         <b> Pseudocode</>
+         <li> Procedure :Linear Search<li>
+         <li>Input: x:integer, a0, a1...an-1 </li>
+         i=0;
+         while (i<n and x is not equal to ai)
+            i=i+1
+        if i<n then location =i
+        elso location=0
+        
+        <li> Output: Number found </li>
+
   
-  
+
   
   
   
