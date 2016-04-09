@@ -148,6 +148,9 @@ first. After that then we could try using the basic ones such as Direct Proof an
         
   
 #Week 7
+<li><b> Mathematical Induction </b> can be used to prove statements that assert that P(n) is true for all positive integers n, where P(n) is a Propositional Function.</li>
+<li> It consists of the <b> Basis Step </b> and the <b>Inductive Step </b>.
+<li><b> Recursion </b> is when you define the object in terms of itself. </li>
 
 
 #Week 8
@@ -276,6 +279,9 @@ is a Hamiltonian Path which ends and begins in the same place </li>
 <li> It is the assingment of color to each of the vertices of the graph so that no two adjacent vertices have the same color </li>
 <li> The <b> Chromatic </b> number of a graph is the minimum number of colors that would be used in coloring a graph </li>
 
+<li> A <b> Tree </b> is a graph with no simple circuits. It can be used in algorithms and games such as chess or checkers </li>
+<li><b> Rooted Tree </b> is a tree in which one vertex has been designated as the root and every edge is getting farther away from the root vertex. </li>
+<li> It is considered as an <b> m-ary tree </b> if every internal vertex contains no more than m children. </li>
 
 
 
